@@ -1,0 +1,10 @@
+swd.team11.coviddatabase
+swd.team11.coviddatabase.events
+swd.team11.coviddatabase.exceptions
+swd.team11.coviddatabase.server
+swd.team11.coviddatabase.server.mysql
+swd.team11.coviddatabase.server.network
+swd.team11.coviddatabase.user
+swd.team11.coviddatabase.user.application
+swd.team11.coviddatabase.user.application.controllers
+swd.team11.coviddatabase.utils
